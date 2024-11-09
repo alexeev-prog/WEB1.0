@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'DOS';
+	src: url('../DatCub-Regular.ttf')  format('truetype');
+}
+
+body {
+	background: #000088;
+	color: white;
+	font-family: "DOS";
+}
+
+header {
+	width: 100%;
+	background: #bbb;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	padding: 10px;
+	display: flex;
+	justify-content: space-around;
+}
